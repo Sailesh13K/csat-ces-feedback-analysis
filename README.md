@@ -34,16 +34,16 @@ Notebooks cover preprocessing, model training, evaluation, and a unified dashboa
 - Visual results
 - Side-by-side CSAT + CES + Sentiment outputs
 
-(A future Streamlit deployment can be added.)
-
 ---
 
 ## 📂 Repository Structure
 
+```text
 ├── CSAT.ipynb # CSAT model training + evaluation
 ├── CES.ipynb # CES model training + evaluation
 ├── FinalDashboard.ipynb # Unified prediction & visualization
 ├── README.md # Project documentation
+```
 
 > **Note:** Trained models are not included to keep the repository lightweight.
 
